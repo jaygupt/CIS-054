@@ -1,0 +1,3 @@
+void newLine () {
+    cout << endl; 
+}
